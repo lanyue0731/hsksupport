@@ -13,5 +13,5 @@ HSK(Hanyu Shuiping Kaoshi) is a standard test for non-native speakers. HSK vocab
 
 
 <p>
-<a href="https://lanyue0731.github.io/hsksupport/support.html">联系开发人员</a>
+<a href="https://lanyue0731.github.io/hsksupport/support.html">Contact US</a>
 </p>
