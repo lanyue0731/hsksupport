@@ -10,8 +10,3 @@ HSK(Hanyu Shuiping Kaoshi) is a standard test for non-native speakers. HSK vocab
 2. In any level, after you complete more than 10 words, and if your correction ratio is more than 90 percents, you can jump into next level directly.
 
 3. The longer you test, the larger vocabulary you have.
-
-
-<p>
-<a href="https://lanyue0731.github.io/hsksupport/support.html">Contact US</a>
-</p>
